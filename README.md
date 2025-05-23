@@ -54,8 +54,8 @@ This dashboard provides a comprehensive analysis of bank loan data — from loan
 ---
 
 ## 📸 Dashboard Preview
+![Image](https://github.com/user-attachments/assets/9ba85489-e535-4731-b2b8-06efdad97743)
 
-![Image](https://github.com/user-attachments/assets/811c2554-ba84-45c7-bfef-d9c663dbc582)
 ---
 
 
